@@ -1,439 +1,678 @@
-﻿# TODO: Translation updated at 2018-01-18 11:53
+﻿# TODO: Translation updated at 2018-09-16 16:12
 
 translate thai strings:
 
     # 00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}จันทร์"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}อังคาร"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}พุธ"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}พฤหัสบดี"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}ศุกร์"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}เสาร์"
+    new ""
 
     # 00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}อาทิตย์"
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}จ."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}อ."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}พ."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}พฤ."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}ศ."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}ส."
+    new ""
 
     # 00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}อา."
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}January"
-    new "{#month}มกราคม"
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}February"
-    new "{#month}กุมภาพันธ์"
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}March"
-    new "{#month}มีนาคม"
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}April"
-    new "{#month}เมษายน"
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}May"
-    new "{#month}พฤษภาคม"
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}June"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}July"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}August"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}September"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}October"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}November"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:47
     old "{#month}December"
-    new "{#month} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short} "
+    new ""
 
     # 00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short} "
+    new ""
 
-    # 00action_file.rpy:237
+    # 00action_file.rpy:240
     old "%b %d, %H:%M"
-    new "%b %d, %H:%M"
+    new ""
 
-    # 00action_file.rpy:852
+    # 00action_file.rpy:353
+    old "Save slot %s: [text]"
+    new ""
+
+    # 00action_file.rpy:434
+    old "Load slot %s: [text]"
+    new ""
+
+    # 00action_file.rpy:487
+    old "Delete slot [text]"
+    new ""
+
+    # 00action_file.rpy:569
+    old "File page auto"
+    new ""
+
+    # 00action_file.rpy:571
+    old "File page quick"
+    new ""
+
+    # 00action_file.rpy:573
+    old "File page [text]"
+    new ""
+
+    # 00action_file.rpy:763
+    old "Next file page."
+    new ""
+
+    # 00action_file.rpy:827
+    old "Previous file page."
+    new ""
+
+    # 00action_file.rpy:888
     old "Quick save complete."
-    new "บันทึกทันทีเสร็จสิ้น"
+    new ""
 
-    # 00director.rpy:703
+    # 00action_file.rpy:906
+    old "Quick save."
+    new ""
+
+    # 00action_file.rpy:925
+    old "Quick load."
+    new ""
+
+    # 00action_other.rpy:355
+    old "Language [text]"
+    new ""
+
+    # 00director.rpy:708
     old "The interactive director is not enabled here."
-    new "Interactive director ไม่ได้ถูกเปิดใช้งาน"
+    new ""
 
-    # 00director.rpy:1490
+    # 00director.rpy:1481
+    old "⬆"
+    new ""
+
+    # 00director.rpy:1487
+    old "⬇"
+    new ""
+
+    # 00director.rpy:1551
     old "Done"
-    new "เสร็จสิ้น"
+    new ""
 
-    # 00director.rpy:1498
+    # 00director.rpy:1561
     old "(statement)"
-    new "(statement)"
+    new ""
 
-    # 00director.rpy:1499
+    # 00director.rpy:1562
     old "(tag)"
-    new "(tag)"
+    new ""
 
-    # 00director.rpy:1500
+    # 00director.rpy:1563
     old "(attributes)"
-    new "(attributes)"
-
-    # 00director.rpy:1501
-    old "(transform)"
-    new "(transform)"
-
-    # 00director.rpy:1526
-    old "(transition)"
-    new "(transition)"
-
-    # 00director.rpy:1538
-    old "(channel)"
-    new "(channel)"
-
-    # 00director.rpy:1539
-    old "(filename)"
-    new "(filename)"
+    new ""
 
     # 00director.rpy:1564
+    old "(transform)"
+    new ""
+
+    # 00director.rpy:1589
+    old "(transition)"
+    new ""
+
+    # 00director.rpy:1601
+    old "(channel)"
+    new ""
+
+    # 00director.rpy:1602
+    old "(filename)"
+    new ""
+
+    # 00director.rpy:1631
     old "Change"
-    new "Change"
+    new ""
 
-    # 00director.rpy:1566
+    # 00director.rpy:1633
     old "Add"
-    new "Add"
+    new ""
 
-    # 00director.rpy:1569
+    # 00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new ""
 
-    # 00director.rpy:1572
+    # 00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new ""
 
-    # 00director.rpy:1605
+    # 00director.rpy:1674
     old "Statement:"
-    new "Statement:"
+    new ""
 
-    # 00director.rpy:1626
+    # 00director.rpy:1695
     old "Tag:"
-    new "Tag:"
+    new ""
 
-    # 00director.rpy:1642
+    # 00director.rpy:1711
     old "Attributes:"
-    new "Attributes:"
+    new ""
 
-    # 00director.rpy:1660
+    # 00director.rpy:1729
     old "Transforms:"
-    new "Transforms:"
+    new ""
 
-    # 00director.rpy:1679
+    # 00director.rpy:1748
     old "Behind:"
-    new "Behind:"
+    new ""
 
-    # 00director.rpy:1698
+    # 00director.rpy:1767
     old "Transition:"
-    new "Transition:"
+    new ""
 
-    # 00director.rpy:1716
+    # 00director.rpy:1785
     old "Channel:"
-    new "Channel:"
+    new ""
 
-    # 00director.rpy:1734
+    # 00director.rpy:1803
     old "Audio Filename:"
-    new "Audio Filename:"
-
-    # 00gui.rpy:368
-    old "Are you sure?"
-    new "แน่ใจนะ?"
-
-    # 00gui.rpy:369
-    old "Are you sure you want to delete this save?"
-    new "แน่ใจนะว่าจะลบเซฟอันนี้?"
+    new ""
 
     # 00gui.rpy:370
-    old "Are you sure you want to overwrite your save?"
-    new "แน่ใจนะว่าจะเซฟทับอันนี้?"
+    old "Are you sure?"
+    new ""
 
     # 00gui.rpy:371
-    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "โหลดเกมอาจจะทำให้สูญเสียความคืบหน้า \nแน่ใจว่าจะทำแบบนี้?"
+    old "Are you sure you want to delete this save?"
+    new ""
 
     # 00gui.rpy:372
-    old "Are you sure you want to quit?"
-    new "แน่ใจว่าจะออกจากเกม?"
+    old "Are you sure you want to overwrite your save?"
+    new ""
 
     # 00gui.rpy:373
-    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "แน่ในว่าจะกลับไปยังเมนูหลัก?\nมันอาจจะทำให้สูญเสียความคืบหน้า"
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new ""
 
     # 00gui.rpy:374
-    old "Are you sure you want to end the replay?"
-    new "แน่ใจว่าจะหยุดการเล่นซ้ำ?"
+    old "Are you sure you want to quit?"
+    new ""
 
     # 00gui.rpy:375
-    old "Are you sure you want to begin skipping?"
-    new "แน่ใจว่าจะเริ่มข้าม?"
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new ""
 
     # 00gui.rpy:376
-    old "Are you sure you want to skip to the next choice?"
-    new "แน่ใจว่าจะข้ามตัวเลือกต่อไปนี้?"
+    old "Are you sure you want to end the replay?"
+    new ""
 
     # 00gui.rpy:377
+    old "Are you sure you want to begin skipping?"
+    new ""
+
+    # 00gui.rpy:378
+    old "Are you sure you want to skip to the next choice?"
+    new ""
+
+    # 00gui.rpy:379
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "แน่ใจว่าจะข้ามเนื้อเรื่องที่ไม่ได้อ่านไปยังตัวเลือกถัดไป?"
+    new ""
 
-    # 00keymap.rpy:257
+    # 00keymap.rpy:258
     old "Failed to save screenshot as %s."
-    new "ไม่สามารถบันทึกภาพ %s"
+    new ""
 
-    # 00keymap.rpy:269
+    # 00keymap.rpy:270
     old "Saved screenshot as %s."
-    new "บันทึกภาพ %s"
+    new ""
 
     # 00library.rpy:146
     old "Self-voicing disabled."
-    new "Self-voicing ปิดการทำงาน"
+    new ""
 
     # 00library.rpy:147
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing เปิดการทำงาน"
+    new ""
 
     # 00library.rpy:148
     old "Self-voicing enabled. "
-    new "Self-voicing เปิดการทำงาน"
+    new ""
 
-    # 00library.rpy:183
+    # 00library.rpy:150
+    old "bar"
+    new ""
+
+    # 00library.rpy:151
+    old "selected"
+    new ""
+
+    # 00library.rpy:152
+    old "viewport"
+    new ""
+
+    # 00library.rpy:153
+    old "horizontal scroll"
+    new ""
+
+    # 00library.rpy:154
+    old "vertical scroll"
+    new ""
+
+    # 00library.rpy:155
+    old "activate"
+    new ""
+
+    # 00library.rpy:156
+    old "deactivate"
+    new ""
+
+    # 00library.rpy:157
+    old "increase"
+    new ""
+
+    # 00library.rpy:158
+    old "decrease"
+    new ""
+
+    # 00library.rpy:193
     old "Skip Mode"
-    new "โหมดข้าม"
+    new ""
 
-    # 00library.rpy:266
+    # 00library.rpy:279
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
+    new ""
 
-    # 00preferences.rpy:472
+    # 00preferences.rpy:207
+    old "display"
+    new ""
+
+    # 00preferences.rpy:219
+    old "transitions"
+    new ""
+
+    # 00preferences.rpy:228
+    old "skip transitions"
+    new ""
+
+    # 00preferences.rpy:230
+    old "video sprites"
+    new ""
+
+    # 00preferences.rpy:239
+    old "show empty window"
+    new ""
+
+    # 00preferences.rpy:248
+    old "text speed"
+    new ""
+
+    # 00preferences.rpy:256
+    old "joystick"
+    new ""
+
+    # 00preferences.rpy:256
+    old "joystick..."
+    new ""
+
+    # 00preferences.rpy:263
+    old "skip"
+    new ""
+
+    # 00preferences.rpy:266
+    old "skip unseen [text]"
+    new ""
+
+    # 00preferences.rpy:271
+    old "skip unseen text"
+    new ""
+
+    # 00preferences.rpy:273
+    old "begin skipping"
+    new ""
+
+    # 00preferences.rpy:277
+    old "after choices"
+    new ""
+
+    # 00preferences.rpy:284
+    old "skip after choices"
+    new ""
+
+    # 00preferences.rpy:286
+    old "auto-forward time"
+    new ""
+
+    # 00preferences.rpy:300
+    old "auto-forward"
+    new ""
+
+    # 00preferences.rpy:307
+    old "Auto forward"
+    new ""
+
+    # 00preferences.rpy:310
+    old "auto-forward after click"
+    new ""
+
+    # 00preferences.rpy:319
+    old "automatic move"
+    new ""
+
+    # 00preferences.rpy:328
+    old "wait for voice"
+    new ""
+
+    # 00preferences.rpy:337
+    old "voice sustain"
+    new ""
+
+    # 00preferences.rpy:346
+    old "self voicing"
+    new ""
+
+    # 00preferences.rpy:355
+    old "clipboard voicing"
+    new ""
+
+    # 00preferences.rpy:364
+    old "debug voicing"
+    new ""
+
+    # 00preferences.rpy:373
+    old "emphasize audio"
+    new ""
+
+    # 00preferences.rpy:382
+    old "rollback side"
+    new ""
+
+    # 00preferences.rpy:392
+    old "gl powersave"
+    new ""
+
+    # 00preferences.rpy:398
+    old "gl framerate"
+    new ""
+
+    # 00preferences.rpy:401
+    old "gl tearing"
+    new ""
+
+    # 00preferences.rpy:413
+    old "music volume"
+    new ""
+
+    # 00preferences.rpy:414
+    old "sound volume"
+    new ""
+
+    # 00preferences.rpy:415
+    old "voice volume"
+    new ""
+
+    # 00preferences.rpy:416
+    old "mute music"
+    new ""
+
+    # 00preferences.rpy:417
+    old "mute sound"
+    new ""
+
+    # 00preferences.rpy:418
+    old "mute voice"
+    new ""
+
+    # 00preferences.rpy:419
+    old "mute all"
+    new ""
+
+    # 00preferences.rpy:500
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing เปิดใช้งาน กด 'shift+C' เพื่อปิดการทำงาน"
+    new ""
 
-    # 00preferences.rpy:474
+    # 00preferences.rpy:502
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing จะพูด \"[renpy.display.tts.last]\" กด 'alt+shift+V' เพื่อปิดการทำงาน"
+    new ""
 
-    # 00preferences.rpy:476
+    # 00preferences.rpy:504
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing เปิดการทำงาน กด 'v' เพื่อปิดการทำงาน"
+    new ""
 
     # _compat\gamemenu.rpym:198
     old "Empty Slot."
-    new "ช่องว่าง"
+    new ""
 
     # _compat\gamemenu.rpym:355
     old "Previous"
-    new "ก่อนหน้า"
+    new ""
 
     # _compat\gamemenu.rpym:362
     old "Next"
-    new "ถัดไป"
+    new ""
 
     # _compat\preferences.rpym:428
     old "Joystick Mapping"
-    new "ตั้งปุ่มจอย"
+    new ""
 
     # _developer\developer.rpym:38
     old "Developer Menu"
-    new "เมนูผู้พัฒนา"
+    new ""
 
     # _developer\developer.rpym:43
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new ""
 
     # _developer\developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "รีโหลดเกม (Shift+R)"
+    new ""
 
     # _developer\developer.rpym:47
     old "Console (Shift+O)"
-    new "คอนโซล (Shift+O)"
+    new ""
 
     # _developer\developer.rpym:49
     old "Variable Viewer"
-    new "ตัวดูค่าตัวแปร"
+    new ""
+
+    # _developer\developer.rpym:51
+    old "Image Location Picker"
+    new ""
 
     # _developer\developer.rpym:53
-    old "Image Location Picker"
-    new "ตัวจับพิกัดภาพ"
-
-    # _developer\developer.rpym:55
     old "Filename List"
-    new "รายชื่อไฟล์ทั้งหมด"
+    new ""
 
-    # _developer\developer.rpym:59
-    old "Show Image Load Log"
-    new "แสดงข้อมูลการโหลดภาพ"
+    # _developer\developer.rpym:57
+    old "Show Image Load Log (F4)"
+    new ""
 
-    # _developer\developer.rpym:62
-    old "Hide Image Load Log"
-    new "ซ่อนข้อมูลการโหลดภาพ"
+    # _developer\developer.rpym:60
+    old "Hide Image Load Log (F4)"
+    new ""
 
-    # _developer\developer.rpym:67
-    old "Show Texture Size"
-    new "แสดงขนาดของเท็กเจอร์"
+    # _developer\developer.rpym:63
+    old "Image Attributes"
+    new ""
 
-    # _developer\developer.rpym:70
-    old "Hide Texture size"
-    new "ซ่อนขนาดของเท็กเจอร์"
+    # _developer\developer.rpym:90
+    old "[name] [attributes] (hidden)"
+    new ""
 
-    # _developer\developer.rpym:108
+    # _developer\developer.rpym:94
+    old "[name] [attributes]"
+    new ""
+
+    # _developer\developer.rpym:137
     old "Nothing to inspect."
-    new "ไม่มีอะไรให้เช็ค"
-    #NOTE
+    new ""
 
-    # _developer\developer.rpym:236
+    # _developer\developer.rpym:265
     old "Return to the developer menu"
-    new "กลับไปยังเมนูผู้พัฒนา"
+    new ""
 
-    # _developer\developer.rpym:396
+    # _developer\developer.rpym:425
     old "Rectangle: %r"
     new ""
 
-    # _developer\developer.rpym:401
+    # _developer\developer.rpym:430
     old "Mouse position: %r"
     new ""
 
-    # _developer\developer.rpym:406
+    # _developer\developer.rpym:435
     old "Right-click or escape to quit."
     new ""
 
-    # _developer\developer.rpym:438
+    # _developer\developer.rpym:467
     old "Rectangle copied to clipboard."
     new ""
 
-    # _developer\developer.rpym:441
+    # _developer\developer.rpym:470
     old "Position copied to clipboard."
     new ""
 
-    # _developer\developer.rpym:460
+    # _developer\developer.rpym:489
     old "Type to filter: "
     new ""
 
-    # _developer\developer.rpym:564
-    old "✔ "
-    new "✔ "
-
-    # _developer\developer.rpym:567
-    old "✘ "
-    new "✘ "
-
-    # _developer\developer.rpym:572
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    # _developer\developer.rpym:617
+    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
     new ""
 
-    # _developer\developer.rpym:583
-    old "{size_mb:,.1f} MB in {count} textures."
-    new "{size_mb:,.1f} MB ใน {count} ไฟล์"
+    # _developer\developer.rpym:621
+    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
+    new ""
+
+    # _developer\developer.rpym:631
+    old "✔ "
+    new ""
+
+    # _developer\developer.rpym:634
+    old "✘ "
+    new ""
+
+    # _developer\developer.rpym:639
+    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
+    new ""
 
     # _developer\inspector.rpym:38
     old "Displayable Inspector"
@@ -441,15 +680,15 @@ translate thai strings:
 
     # _developer\inspector.rpym:61
     old "Size"
-    new "ขนาด"
+    new ""
 
     # _developer\inspector.rpym:65
     old "Style"
-    new "รูปแบบ"
+    new ""
 
     # _developer\inspector.rpym:71
     old "Location"
-    new "ตำแหน่ง"
+    new ""
 
     # _developer\inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -469,109 +708,109 @@ translate thai strings:
 
     # _developer\inspector.rpym:185
     old "<repr() failed>"
-    new "<repr() failed>"
+    new ""
 
     # _layout\classic_load_save.rpym:170
     old "a"
-    new "a"
+    new ""
 
     # _layout\classic_load_save.rpym:179
     old "q"
-    new "q"
+    new ""
 
     # 00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "กำลังเชื่อมต่อแอปสโตล์\nโปรดรอสักครู่..."
+    new ""
 
-    # 00updater.rpy:372
+    # 00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "Ren'Py Updater ไม่รองรับมือถือ"
+    new ""
 
-    # 00updater.rpy:491
+    # 00updater.rpy:494
     old "An error is being simulated."
     new ""
 
-    # 00updater.rpy:667
+    # 00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
     new ""
 
-    # 00updater.rpy:681
+    # 00updater.rpy:692
     old "This account does not have permission to perform an update."
     new ""
 
-    # 00updater.rpy:684
+    # 00updater.rpy:695
     old "This account does not have permission to write the update log."
     new ""
 
-    # 00updater.rpy:711
+    # 00updater.rpy:722
     old "Could not verify update signature."
     new ""
 
-    # 00updater.rpy:986
+    # 00updater.rpy:997
     old "The update file was not downloaded."
     new ""
 
-    # 00updater.rpy:1004
+    # 00updater.rpy:1015
     old "The update file does not have the correct digest - it may have been corrupted."
     new ""
 
-    # 00updater.rpy:1060
+    # 00updater.rpy:1071
     old "While unpacking {}, unknown type {}."
     new ""
 
-    # 00updater.rpy:1407
+    # 00updater.rpy:1439
     old "Updater"
     new ""
 
-    # 00updater.rpy:1418
+    # 00updater.rpy:1450
     old "This program is up to date."
     new ""
 
-    # 00updater.rpy:1420
+    # 00updater.rpy:1452
     old "[u.version] is available. Do you want to install it?"
     new ""
 
-    # 00updater.rpy:1422
+    # 00updater.rpy:1454
     old "Preparing to download the updates."
     new ""
 
-    # 00updater.rpy:1424
+    # 00updater.rpy:1456
     old "Downloading the updates."
     new ""
 
-    # 00updater.rpy:1426
+    # 00updater.rpy:1458
     old "Unpacking the updates."
     new ""
 
-    # 00updater.rpy:1430
+    # 00updater.rpy:1462
     old "The updates have been installed. The program will restart."
     new ""
 
-    # 00updater.rpy:1432
+    # 00updater.rpy:1464
     old "The updates have been installed."
     new ""
 
-    # 00updater.rpy:1434
+    # 00updater.rpy:1466
     old "The updates were cancelled."
     new ""
 
-    # 00gallery.rpy:573
+    # 00gallery.rpy:585
     old "Image [index] of [count] locked."
     new ""
 
-    # 00gallery.rpy:593
+    # 00gallery.rpy:605
     old "prev"
     new ""
 
-    # 00gallery.rpy:594
+    # 00gallery.rpy:606
     old "next"
     new ""
 
-    # 00gallery.rpy:595
+    # 00gallery.rpy:607
     old "slideshow"
     new ""
 
-    # 00gallery.rpy:596
+    # 00gallery.rpy:608
     old "return"
     new ""
 

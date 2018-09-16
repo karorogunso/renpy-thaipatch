@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-01-18 11:53
+﻿# TODO: Translation updated at 2018-09-16 16:12
 
 translate thai strings:
 
@@ -139,7 +139,7 @@ translate thai strings:
     new ""
 
     # gui.rpy:124
-    old "## If True, the background of the namebox will be tiled, if False, the background if the namebox will be scaled."
+    old "## If True, the background of the namebox will be tiled, if False, the background of the namebox will be scaled."
     new ""
 
     # gui.rpy:129
@@ -222,215 +222,215 @@ translate thai strings:
     old "## The save slot button."
     new ""
 
-    # gui.rpy:231
+    # gui.rpy:233
     old "## The width and height of thumbnails used by the save slots."
     new ""
 
-    # gui.rpy:235
+    # gui.rpy:237
     old "## The number of columns and rows in the grid of save slots."
     new ""
 
-    # gui.rpy:240
+    # gui.rpy:242
     old "## Positioning and Spacing"
     new ""
 
-    # gui.rpy:242
+    # gui.rpy:244
     old "## These variables control the positioning and spacing of various user interface elements."
     new ""
 
-    # gui.rpy:245
+    # gui.rpy:247
     old "## The position of the left side of the navigation buttons, relative to the left side of the screen."
     new ""
 
-    # gui.rpy:249
+    # gui.rpy:251
     old "## The vertical position of the skip indicator."
     new ""
 
-    # gui.rpy:252
+    # gui.rpy:254
     old "## The vertical position of the notify screen."
     new ""
 
-    # gui.rpy:255
+    # gui.rpy:257
     old "## The spacing between menu choices."
     new ""
 
-    # gui.rpy:258
+    # gui.rpy:260
     old "## Buttons in the navigation section of the main and game menus."
     new ""
 
-    # gui.rpy:261
+    # gui.rpy:263
     old "## Controls the amount of spacing between preferences."
     new ""
 
-    # gui.rpy:264
+    # gui.rpy:266
     old "## Controls the amount of spacing between preference buttons."
     new ""
 
-    # gui.rpy:267
+    # gui.rpy:269
     old "## The spacing between file page buttons."
     new ""
 
-    # gui.rpy:270
+    # gui.rpy:272
     old "## The spacing between file slots."
     new ""
 
-    # gui.rpy:273
+    # gui.rpy:275
     old "## The position of the main menu text."
     new ""
 
-    # gui.rpy:277
+    # gui.rpy:279
     old "## Frames"
     new ""
 
-    # gui.rpy:279
+    # gui.rpy:281
     old "## These variables control the look of frames that can contain user interface components when an overlay or window is not present."
     new ""
 
-    # gui.rpy:282
+    # gui.rpy:284
     old "## Generic frames."
     new ""
 
-    # gui.rpy:285
+    # gui.rpy:287
     old "## The frame that is used as part of the confirm screen."
     new ""
 
-    # gui.rpy:288
+    # gui.rpy:290
     old "## The frame that is used as part of the skip screen."
     new ""
 
-    # gui.rpy:291
+    # gui.rpy:293
     old "## The frame that is used as part of the notify screen."
     new ""
 
-    # gui.rpy:294
+    # gui.rpy:296
     old "## Should frame backgrounds be tiled?"
     new ""
 
-    # gui.rpy:298
+    # gui.rpy:300
     old "## Bars, Scrollbars, and Sliders"
     new ""
 
-    # gui.rpy:300
+    # gui.rpy:302
     old "## These control the look and size of bars, scrollbars, and sliders."
     new ""
 
-    # gui.rpy:302
+    # gui.rpy:304
     old "## The default GUI only uses sliders and vertical scrollbars. All of the other bars are only used in creator-written screens."
     new ""
 
-    # gui.rpy:305
+    # gui.rpy:307
     old "## The height of horizontal bars, scrollbars, and sliders. The width of vertical bars, scrollbars, and sliders."
     new ""
 
-    # gui.rpy:311
+    # gui.rpy:313
     old "## True if bar images should be tiled. False if they should be linearly scaled."
     new ""
 
-    # gui.rpy:316
+    # gui.rpy:318
     old "## Horizontal borders."
     new ""
 
-    # gui.rpy:321
+    # gui.rpy:323
     old "## Vertical borders."
     new ""
 
-    # gui.rpy:326
+    # gui.rpy:328
     old "## What to do with unscrollable scrollbars in the gui. \"hide\" hides them, while None shows them."
     new ""
 
-    # gui.rpy:331
+    # gui.rpy:333
     old "## History"
     new ""
 
-    # gui.rpy:333
+    # gui.rpy:335
     old "## The history screen displays dialogue that the player has already dismissed."
     new ""
 
-    # gui.rpy:335
+    # gui.rpy:337
     old "## The number of blocks of dialogue history Ren'Py will keep."
     new ""
 
-    # gui.rpy:338
+    # gui.rpy:340
     old "## The height of a history screen entry, or None to make the height variable at the cost of performance."
     new ""
 
-    # gui.rpy:342
+    # gui.rpy:344
     old "## The position, width, and alignment of the label giving the name of the speaking character."
     new ""
 
-    # gui.rpy:349
+    # gui.rpy:351
     old "## The position, width, and alignment of the dialogue text."
     new ""
 
-    # gui.rpy:356
+    # gui.rpy:358
     old "## NVL-Mode"
     new ""
 
-    # gui.rpy:358
+    # gui.rpy:360
     old "## The NVL-mode screen displays the dialogue spoken by NVL-mode characters."
     new ""
 
-    # gui.rpy:360
+    # gui.rpy:362
     old "## The borders of the background of the NVL-mode background window."
     new ""
 
-    # gui.rpy:363
+    # gui.rpy:365
     old "## The maximum number of NVL-mode entries Ren'Py will display. When more entries than this are to be show, the oldest entry will be removed."
     new ""
 
-    # gui.rpy:367
+    # gui.rpy:369
     old "## The height of an NVL-mode entry. Set this to None to have the entries dynamically adjust height."
     new ""
 
-    # gui.rpy:371
+    # gui.rpy:373
     old "## The spacing between NVL-mode entries when gui.nvl_height is None, and between NVL-mode entries and an NVL-mode menu."
     new ""
 
-    # gui.rpy:388
+    # gui.rpy:390
     old "## The position, width, and alignment of nvl_thought text (the text said by the nvl_narrator character.)"
     new ""
 
-    # gui.rpy:395
+    # gui.rpy:397
     old "## The position of nvl menu_buttons."
     new ""
 
-    # gui.rpy:399
+    # gui.rpy:401
     old "## Localization"
     new ""
 
-    # gui.rpy:401
+    # gui.rpy:403
     old "## This controls where a line break is permitted. The default is suitable for most languages. A list of available values can be found at https://www.renpy.org/doc/html/style_properties.html#style-property-language"
     new ""
 
-    # gui.rpy:409
+    # gui.rpy:411
     old "## Mobile devices"
     new ""
 
-    # gui.rpy:414
+    # gui.rpy:416
     old "## This increases the size of the quick buttons to make them easier to touch on tablets and phones."
     new ""
 
-    # gui.rpy:420
+    # gui.rpy:422
     old "## This changes the size and spacing of various GUI elements to ensure they are easily visible on phones."
     new ""
 
-    # gui.rpy:424
+    # gui.rpy:426
     old "## Font sizes."
     new ""
 
-    # gui.rpy:432
+    # gui.rpy:434
     old "## Adjust the location of the textbox."
     new ""
 
-    # gui.rpy:438
+    # gui.rpy:440
     old "## Change the size and spacing of various things."
     new ""
 
-    # gui.rpy:451
+    # gui.rpy:453
     old "## File button layout."
     new ""
 
-    # gui.rpy:455
+    # gui.rpy:457
     old "## NVL-mode."
     new ""
 

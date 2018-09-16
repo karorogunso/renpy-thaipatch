@@ -1,7 +1,10 @@
 init python:
-    translate_font("thai", "THSarabunNew Bold001.ttf")
+    translate_font("thai", "CSPraKasFD.otf")
 
 translate thai python:
-    gui.REGULAR_FONT = "THSarabunNew Bold001.ttf"
-    gui.FONT_SCALE = 1.2
-    gui.REGULAR_BOLD = True
+    gui.REGULAR_FONT = "CSPraKasFD.otf"
+    gui.FONT_SCALE = 0.9
+    gui.REGULAR_BOLD = False
+
+translate thai style l_default:
+    line_spacing -10

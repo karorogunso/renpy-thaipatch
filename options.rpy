@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2018-01-18 11:53
+﻿# TODO: Translation updated at 2018-09-16 16:12
 
 translate thai strings:
 
